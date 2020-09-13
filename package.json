@@ -1,13 +1,21 @@
 {
   "name": "wetube",
   "version": "1.0.0",
-  "description": "cloning youtube with vanilajs and nodejs",
+  "description": "cloning yotube with vanila and nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "myself",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyk102/wetube.git"
+  },
+  "author": "han yong keun",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyk102/wetube/issues"
+  },
+  "homepage": "https://github.com/hyk102/wetube#readme",
   "dependencies": {
     "express": "^4.17.1"
   }

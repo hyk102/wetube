@@ -1,2 +1,2 @@
-#wetube
-cloning youtube with vanilajs and nodejs
+# wetube
+cloning yotube with vanila and nodejs
